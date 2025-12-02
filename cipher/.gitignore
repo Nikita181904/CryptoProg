@@ -1,0 +1,31 @@
+# Исполняемые файлы
+crypto_tool
+*.exe
+*.out
+
+# Объектные файлы
+*.o
+*.obj
+
+# Файлы сборки
+build/
+dist/
+
+# Зашифрованные и тестовые файлы
+*.enc
+*.dec
+test_*.txt
+test_*.enc
+test_*.dec
+test_*.bin
+*.bin
+
+# Временные файлы
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Резервные копии
+*~
+*.bak
